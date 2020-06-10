@@ -1,0 +1,23 @@
+This is e-TeX, Version 3.141592-2.2 (MiKTeX 2.4) (preloaded format=latex 2008.7.12)  27 OCT 2008 15:06
+entering extended mode
+**moderncvstylecasual.sty
+(moderncvstylecasual.sty
+LaTeX2e <2005/12/01>
+Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `moderncvstylecasual'.
+
+Package: moderncvstylecasual 2006/09/09 v0.5 modern curriculum vitae style: cas
+ual
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \usepackage{
+                 CJK}
+? 
